@@ -3,7 +3,6 @@
 
 Here are some ideas to get you started:
 
-- 🧑🏻‍💻 Working as a Full Stack Developer @ Toddle
 - 🔭 I’m currently working on ReactJs SPAs
 - 🌱 I’m currently learning web application optimisations and tools
 <!-- - 👯 I’m looking to collaborate on ... -->
