@@ -23,17 +23,6 @@
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/22170382/156891171-a96a193a-cb26-45ed-8359-b5c939ac6e60.svg" alt="vitejs" width="40" height="40"/> </a> </p>
 
 ### Devlopement Statistics
-
-<!-- <div style="display:flex; align-items: stretch; flex-wrap: nowrap;">
- <div style="flex: 1;">
- </div>
- <div style="flex: 1;">
- </div>
-</div> -->
-
-<a>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamraviprakash&count_private=true&show_icons=true&hide=contribs&hide_border=true" />
-</a>
-<a>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamraviprakash&layout=compact&hide_border=true" />
-</a>
+
