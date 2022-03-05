@@ -22,7 +22,7 @@
 
 #### Devloper Statistics
 
-<div style="display:flex; align-items: stretch;">
+<div style="display:flex; align-items: stretch; flex-wrap: nowrap;">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamraviprakash&count_private=true&show_icons=true&hide=contribs&hide_border=true" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamraviprakash&layout=compact&hide_border=true" />
 </div>
