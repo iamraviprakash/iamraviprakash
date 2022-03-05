@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with best optimisation practices -->
 <!-- - 💬 Ask me about React and Design -->
 <!-- - 😄 Pronouns: ... -->
+
+[![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamraviprakash)](https://github.com/anuraghazra/github-readme-stats)
