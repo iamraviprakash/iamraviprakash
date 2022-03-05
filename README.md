@@ -1,11 +1,13 @@
-### Hi there 👋  
+<h1 align="center">Hi there 👋, I'm Ravi!</h1>
+<h3 align="center">Senior Product Engineer @Toddle</h3>
 
 #### About me
 
-- 🧑🏻‍💻 Working at Toddle
+<!-- - 🧑🏻‍💻 Working at Toddle -->
 - 🔭 Currently using ReactJs in web-apps
 - 🤩 Crazy about clean code
 - 🌱 Exploring software engineering principles in depth
+- 🎸 Play ukelele in free time
 - 📫 How to reach me: raviprakash.coder@gmail.com
 <!-- - ⚡ Fun fact: I am trying to balance code and design.
  -->
