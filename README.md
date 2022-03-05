@@ -24,11 +24,16 @@
 
 ### Devlopement Statistics
 
-<div style="display:flex; align-items: stretch; flex-wrap: nowrap;">
+<!-- <div style="display:flex; align-items: stretch; flex-wrap: nowrap;">
  <div style="flex: 1;">
+ </div>
+ <div style="flex: 1;">
+ </div>
+</div> -->
+
+<span>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamraviprakash&count_private=true&show_icons=true&hide=contribs&hide_border=true" />
- </div>
- <div style="flex: 1;">
+</span>
+<span>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamraviprakash&layout=compact&hide_border=true" />
- </div>
-</div>
+</span>
