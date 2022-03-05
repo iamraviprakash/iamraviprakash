@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ReactJs SPAs
-- 🌱 I’m currently learning deep software engineering 
+- 🌱 Exploring software engineering principles in depth
+- 🤩 Crazy about clean code
 - 📫 How to reach me: raviprakash.coder@gmail.com
-- ⚡ Fun fact: I am trying to balance code and design.
-
+<!-- - ⚡ Fun fact: I am trying to balance code and design.
+ -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with best optimisation practices -->
 <!-- - 💬 Ask me about React and Design -->
