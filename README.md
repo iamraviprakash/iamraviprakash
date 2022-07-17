@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ravi!</h1>
 <h3 align="center">Senior Product Engineer @Toddle</h3>
+<h5 align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/></h5>
+
 
 ### About me
 
@@ -26,4 +28,3 @@
 ### Devlopement Statistics
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamraviprakash&count_private=true&show_icons=true&hide=contribs&hide_border=true" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamraviprakash&layout=compact&hide_border=true" />
-
