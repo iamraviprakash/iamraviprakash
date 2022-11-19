@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ravi!</h1>
-<h3 align="center">Senior Product Engineer @Toddle</h3>
+<h3 align="center">Senior Software Engineer @Toddle</h3>
 <h5 align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=iamraviprakash.iamraviprakash" alt="visitor badge"/></h5>
 
 
