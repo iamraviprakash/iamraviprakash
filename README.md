@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ravi!</h1>
-<h3 align="center">Senior Software Engineer @Toddle</h3>
+<h3 align="center">Tech Lead @Toddle</h3>
 <h5 align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=iamraviprakash.iamraviprakash" alt="visitor badge"/></h5>
 
 
@@ -7,7 +7,6 @@
 
 <!-- - 🧑🏻‍💻 Working at Toddle -->
 - 🔭 Currently building web-apps using (PERN)+GQL
-- 🤩 Crazy about clean code
 - 🌱 Exploring software engineering principles in depth
 - 🎸 Play ukelele in free time
 - 🗒 Post quaterly update on my [portfolio](https://iamraviprakash.in)
