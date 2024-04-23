@@ -10,7 +10,7 @@
 - 🤩 Crazy about clean code
 - 🌱 Exploring software engineering principles in depth
 - 🎸 Play ukelele in free time
-- 🗒 Post quaterly update on my [portfolio](https://iamraviprakash.super.site)
+- 🗒 Post quaterly update on my [portfolio](https://iamraviprakash.in)
 - 📫 How to reach me: raviprakash.coder@gmail.com
 <!-- - ⚡ Fun fact: I am trying to balance code and design.
  -->
